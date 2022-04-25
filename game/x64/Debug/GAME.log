@@ -1,6 +1,0 @@
-﻿  Console.cpp
-C:\Users\홍기창\source\repos\GAME\GAME\Console.cpp(11,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\홍기창\source\repos\GAME\GAME\Console.cpp(11,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\홍기창\source\repos\GAME\GAME\Console.cpp(17,32): error C2664: 'BOOL SetConsoleTitleW(LPCWSTR)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
-C:\Users\홍기창\source\repos\GAME\GAME\Console.cpp(17,18): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(510,1): message : 'SetConsoleTitleW' 선언을 참조하십시오.
